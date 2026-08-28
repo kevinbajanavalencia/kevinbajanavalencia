@@ -1,156 +1,252 @@
-# Nice to meet you! 👋 I'm Kevin Bajana Valencia
+# Nice to meet you! 👋 I'm Kevin Bajaña Valencia
 
-**System & Network Administration Student | Linux • Networking • Django • Docker**
+**System & Network Administration Student | IT Support • Systems • Networking • Infrastructure**
 
-I'm an IT student based in Belgium, interested in IT infrastructure, Linux, networking, backend development and DevOps practices.
-I enjoy learning by building real projects, solving technical problems and documenting my progress.
+I'm a final-year System and Network Administration student at Odisee in Brussels, interested in IT support, systems, networking, Linux and infrastructure.
+
+I enjoy learning through practical projects, troubleshooting technical problems step by step and documenting what I learn.
+
 - 🎓 Studying **System & Network Administration** at Odisee
-- 🖥️ Interested in **IT Support, NOC, Junior SysAdmin and Network roles**
-- 🐧 Learning and practicing with **Linux, Docker, Django and PostgreSQL**
-- 🌐 Preparing a professional personal website project with backend, database and deployment structure
-- ⛪ Completed an IT internship at **ELIM Belgium** and still support the church with IT/web-related tasks
-- 🚀 Goal: grow towards a junior infrastructure / DevOps profile with a strong technical portfolio
+- 🖥️ Interested in **IT Support, System Administration, Networking and Infrastructure**
+- 🐧 Practicing with **Linux, Windows, networking, Docker and Git/GitHub**
+- 🌐 Building my professional portfolio with **Astro + TypeScript**
+- ⛪ Completed an **IT Intern — Web Development & IT Support** internship at ELIM
+- 🏠 Building a **Personal Home Lab** for systems, networking, security and automation
+- 🚀 Gradually developing my skills towards **Cybersecurity, Automation and DevOps**
 
 <details>
 <summary>Read more about my experience, projects and skills</summary>
 
-## Current focus
+<br>
 
-I'm currently improving my skills in:
+## 👨‍💻 Current Focus
 
-- Linux systems and command line
-- Docker and Docker Compose
-- Django backend development
-- PostgreSQL databases
-- Nginx and Gunicorn basics
-- Git and GitHub workflow
+I'm currently strengthening my practical knowledge in:
+
+- Linux administration and command line
+- Windows and Windows Server
+- Networking fundamentals
+- Troubleshooting
+- Git and GitHub workflows
+- Docker fundamentals
+- Bash and automation fundamentals
+- Cybersecurity and system hardening
 - Technical documentation
-- Basic security and deployment practices
+- Astro and TypeScript
 
-## Main learning project
+My current priority is to build a strong foundation in systems, networking and infrastructure before moving deeper into advanced DevOps and security topics.
 
-### Personal Professional Website — In Progress
+---
 
-I'm preparing a personal portfolio website project using:
+## 💼 Experience
 
-- Fedora Linux VM
-- Django
-- PostgreSQL
-- Docker Compose
-- Gunicorn
-- Nginx
-- Tailwind CSS
-- Django Admin for editable content
+### IT Intern — Web Development & IT Support
+**Mission Chrétienne Elim Internationale**  
+*02/2026 – 06/2026*
 
-The goal is to build more than a static website. I want to practice backend development, Linux, containers, reverse proxy, static/media files, environment variables and production-style deployment.
+During my internship, I worked on a real website project while gaining practical experience with project organisation, documentation and technical support.
 
-This project is part of my learning path to connect development, systems, deployment and security in one real portfolio project.
+Technologies and topics included:
 
-## Experience / Volunteering
+- Astro
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Git / GitHub
+- Branch management
+- Responsive layouts
+- Reusable components
+- Separation of content and presentation
+- Testing and documentation
+- Stakeholder feedback
+- Basic media integrations
 
-### ELIM Belgium — IT Internship & Ongoing IT/Web Support
+The experience also helped me develop professional communication, teamwork and a practical approach to technical problems.
 
-I completed an IT internship at **ELIM Belgium**, where I worked on a real website project for the church.
+---
 
-During this internship, I contributed to:
-
-- Website structure and page organization
-- Responsive page improvements
-- Content organization
-- Git/GitHub workflow
-- Visual improvements based on stakeholder feedback
-- Documentation and project communication
-
-After the internship, I continue to support the church with IT and web-related tasks.
-
-### Proximus / Flemish Government — Internship
-
-I supported the network team lead with network equipment inventory and documentation.
-
-This experience helped me understand the importance of clear documentation, accuracy and professional communication in IT environments.
-
-## Projects / Labs
-
-### ELIM Belgium Website Project
-
-A real website project developed during my IT internship for ELIM Belgium.
-
-I worked on page structure, responsive design, content organization, Git/GitHub workflow and feedback-based improvements.
-
-### Fedora Django Portfolio Lab
-
-A personal learning project focused on building a professional portfolio website with Django, PostgreSQL, Docker Compose, Gunicorn, Nginx and Tailwind.
-
-Main learning goals:
-
-- Build a real backend with Django
-- Manage editable content through Django Admin
-- Use PostgreSQL for persistent data
-- Run services with Docker Compose
-- Understand Nginx as a reverse proxy
-- Prepare a clean project structure for future deployment
+## 🚀 Projects
 
 ### Ubuntu Personal Server Lab
 
-A personal server lab where I practiced Linux administration and server setup.
+A practical Linux system administration project in which I prepared Ubuntu as a personal server environment.
 
 Topics practiced:
 
+- Dedicated Linux storage under `/srv/data`
+- Linux permissions and ownership
+- SSH key authentication
 - SSH hardening
 - UFW firewall
 - Samba shares
-- Nginx web server
 - Tailscale remote access
+- Nginx
 - Astro deployment
-- Basic backups and documentation
+- Configuration backups
+- Remote SSH and Samba testing
+
+**Focus:** Linux · System Administration · Infrastructure
+
+---
+
+### Windows Boot Troubleshooting & UEFI/BCD Repair
+
+A practical troubleshooting project on a Windows PC that was no longer booting correctly.
+
+Work included:
+
+- Disk inspection
+- UEFI / EFI diagnosis
+- Windows Recovery Environment
+- Bootable Windows recovery media
+- BCD troubleshooting
+- Restoring Microsoft EFI boot files
+- Rebuilding the boot configuration with `bcdboot`
+
+**Focus:** Windows · Troubleshooting · Recovery
+
+---
 
 ### Dockerized Flask Microservice
 
-A Flask microservice built with Python, Docker, SQLite and Bash scripts.
+A guided learning project using Python, Flask, Docker, SQLite, Bash and Linux.
 
-Features:
+Topics practiced:
 
-- Login endpoint
-- Secure password hashing
+- Flask API endpoints
+- Login functionality
+- Password hashing with Werkzeug
 - SQLite persistence
-- Metrics/status endpoint
-- Bash scripts for container lifecycle management
+- Monitoring / status endpoint
+- Docker images and containers
+- Container lifecycle management
+- Bash scripts
 
-### GIP Web Design Project
+**Focus:** Docker · Linux · Development · Infrastructure
 
-A local website built with HTML, CSS and JavaScript.
+---
 
-Focus:
+### Personal Home Lab — In Progress
 
-- Basic web design
-- Page structure
-- Styling
-- Minimal JavaScript
-- Map/content structure
+I'm building a larger long-term home lab focused on learning and practising:
 
-## Tech skills
+- Proxmox
+- MikroTik networking
+- VLANs and network segmentation
+- Windows Server
+- Active Directory
+- Linux
+- Docker
+- Security
+- Monitoring
+- Backups and recovery
+- CI/CD
+- Automation
 
-**Systems & Infrastructure:** Linux (Fedora, Ubuntu), Windows Server basics, VirtualBox, SSH, UFW basics, Nginx basics  
-**Networking:** IPv4 fundamentals, DNS basics, VLAN basics, routing basics, troubleshooting commands  
-**Backend & Programming:** Python, Django, Flask, C#, JavaScript, REST API basics, JSON  
-**Databases:** PostgreSQL, SQLite, database fundamentals  
-**DevOps / Tools:** Git, GitHub, Docker, Docker Compose, Gunicorn, Ansible basics, Bash basics  
-**Web:** HTML, CSS, Tailwind CSS, basic frontend development   
+The goal is to create a stable learning environment where I can progressively develop skills in:
 
-## Learning path
+**System Administration → Networking → Infrastructure → Cybersecurity → Automation → DevOps**
 
-My current learning path is focused on building a strong technical base before moving into more advanced DevOps topics.
+The home lab is still **in progress**, so planned technologies are not presented as completed experience.
 
-1. Linux fundamentals and server practice
-2. Docker and Docker Compose
-3. Django and backend development
-4. PostgreSQL and database structure
-5. Nginx, Gunicorn and deployment basics
-6. GitHub Actions and basic CI/CD
-7. Cloud fundamentals
-8. Ansible and automation
-9. Security and hardening basics
-10. Windows Server and Active Directory labs
+---
+
+### Personal Portfolio Website — In Progress
+
+I'm building this professional portfolio as a guided learning project using:
+
+- Astro
+- TypeScript
+- HTML
+- CSS
+- Git
+- GitHub
+- GitHub Actions
+- GitHub Pages
+
+The first version is intentionally static and focused on creating a clean, maintainable and professional portfolio.
+
+Future versions may add more advanced infrastructure and deployment concepts after the static version is complete.
+
+---
+
+## 🛠️ Technical Skills
+
+### Networking
+
+- IPv4 / IPv6
+- Subnetting
+- VLANs
+- DNS
+- DHCP
+- Routing & switching fundamentals
+- Cisco IOS
+- Packet Tracer
+
+### Windows & Linux
+
+- Windows Server/client installation and configuration
+- Active Directory
+- User and group management
+- Group Policy
+- Linux CLI
+- Linux permissions
+- SSH
+- Apache
+- Nginx
+
+### Cybersecurity
+
+- SSH key authentication
+- OpenSSL
+- RSA keys
+- HTTPS / TLS fundamentals
+- Basic understanding of cyber threats
+- Malware fundamentals
+- Network security fundamentals
+
+### Virtualisation & Automation
+
+- VirtualBox
+- Windows/Linux VMs
+- Docker
+- Ansible fundamentals
+- Bash
+- Git / GitHub
+- REST APIs
+- JSON
+- YAML
+
+### Programming, Web & Data
+
+- Python / Flask
+- C#
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Astro
+- SQL
+- MySQL
+- SQLite
+
+---
+
+## 🎓 Education
+
+**Associate Degree in System and Network Administration**  
+Odisee University of Applied Sciences — Brussels Campus  
+2024 – Present
+
+**Applied Computer Science — Cybersecurity Specialist**  
+Odisee University of Applied Sciences — Brussels Campus  
+2022 – 2024  
+*Planned to resume from 2026–2027*
+
+**IT Management**  
+KA Emmanuel Hiel  
+2020 – 2022
 
 </details>
 
@@ -158,11 +254,13 @@ My current learning path is focused on building a strong technical base before m
 
 ## Languages
 
-Spanish native · French fluent · Dutch good · English intermediate
+Spanish native · French fluent · Dutch good knowledge · English good knowledge
 
 ---
 
 ## Connect with me
 
-- LinkedIn: linkedin.com/in/kevin-bajana-valencia-b19121393
-- GitHub: github.com/kevinbajanavalencia
+- LinkedIn: [linkedin.com/in/kevin-bajaña-valencia-b19121393](https://www.linkedin.com/in/kevin-baja%C3%B1a-valencia-b19121393/)
+- GitHub: [github.com/kevinbajanavalencia](https://github.com/kevinbajanavalencia)
+
+🌐 **Personal portfolio:** currently under development
